@@ -1,0 +1,16 @@
+<ArrayList>
+  <item>
+    <username>salom</username>
+    <age>2</age>
+    <password>salom</password>
+    <first_name>salom</first_name>
+    <last_name>salom</last_name>
+  </item>
+  <item>
+    <username>simpleeky</username>
+    <age>20</age>
+    <password>0419</password>
+    <first_name>Davron</first_name>
+    <last_name>Mahmarajabov</last_name>
+  </item>
+</ArrayList>
